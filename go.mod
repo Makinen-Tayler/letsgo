@@ -1,4 +1,4 @@
-module source/repos/letsgo
+module github.com/Makinen-Tayler/letsgo
 
 go 1.22.5
 
